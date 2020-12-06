@@ -1,0 +1,17 @@
+https://git-scm.com/downloads
+git config --global user.email "abhayst2007@gmail.com"
+git config --global user.name "abhayst007"
+
+https://github.com/abhayst007/astAndroid.git
+
+git clone https://github.com/abhayst007/astAndroid.git
+
+copy source code in astAndroid folder
+
+git add .
+
+git commit -am "initial version"
+git push origin main
+
+
+git pull 
